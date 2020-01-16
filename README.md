@@ -1,20 +1,21 @@
 # useful-bash-commands
 Just a list to keep bash commands I find useful (Still very much a WIP)
 
-### General:
+## General:
 ___
 
 List files ordered by date: ```ls -lt```
 
 Reverse line-by-line print to screen (useful for stack traces): ```tac```
 
-### File Manipulation
+## File Manipulation
+___
 
 Convert image format: ```sips -s format pdf file.png --out file.pdf```
 
-___ 
 
-### Other useful packages
+## Other useful packages
+___
 
 [tldr](https://github.com/tldr-pages/tldr) - simple ```man``` pages
 
